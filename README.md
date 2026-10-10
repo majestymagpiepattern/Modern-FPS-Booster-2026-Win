@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
 </p>
 
+
 <p align="center">
   <strong>🚀 FPS Optimization Tool for all PCs</strong><br>
   Maximum performance from old/new hardware
